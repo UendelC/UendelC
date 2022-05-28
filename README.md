@@ -1,6 +1,5 @@
-### Opa, Blz? Meu nome é Uendel Couto.
+## Opa, Blz? Meu nome é Uendel Couto.
 
-## Eu sou um engenheiro de software.
 - 🎓 Formado em Engenharia da Computação pela UNIVASF
 - 👨‍💻 Backend Developer na Sysvale
 - ⛏ Me aprofundando em Laravel
