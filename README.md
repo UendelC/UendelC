@@ -28,7 +28,7 @@ I'm a multidisciplinary developer who likes to solve problems and try to be bett
 - Docker
 - Scrum
 
-### 📋 Contato
+### 📋 Contact
 
 <div>
 <a href = "mailto:contato@uendel.couto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
