@@ -1,18 +1,18 @@
-## Opa, Blz? Meu nome é Uendel Couto.
+## Howdy? My name is Uendel Couto.
 
-Sou um desenvolvedor multidisciplinar que gosta de resolver problemas e tentar ser melhor a cada dia.
+I'm a multidisciplinary developer who likes to solve problems and try to be better every day.
 
-- 🎓 Formado em Engenharia da Computação pela UNIVASF
-- 👨‍💻 Backend Engineer na [Sysvale](https://sysvale.com/) há dois anos
-- ⛏ Me aprofundando em Laravel
-- 😃 Curiosidade: gosto de bicicleta 🚲
+- 🎓 Computer Engineer graduated from UNIVASF
+- 👨‍💻 Backend Engineer at [Sysvale](https://sysvale.com/) for the last 2 years
+- ⛏ Getting deeper knowledge in Laravel
+- 😃 Fun fact: I like riding bikes 🚲
 
-### 👩‍🚀 Projetos
+### 👩‍🚀 Projects
 
 | PHP      | Javascript                                                                                                         |
 |----------|--------------------------------------------------------------------------------------------------------------------|
-| [Flix-API](https://github.com/UendelC/flix-api) | [Calculadora de Juros](https://github.com/UendelC/Estudo-de-Design-Pattern) |
-| [Petshop](https://github.com/UendelC/petshop)   | [Gerenciamento de funcionários](https://github.com/UendelC/vue-app)         |
+| [Flix-API](https://github.com/UendelC/flix-api) | [Tax Calculator](https://github.com/UendelC/Estudo-de-Design-Pattern) |
+| [Petshop](https://github.com/UendelC/petshop)   | [Workers Manager](https://github.com/UendelC/vue-app)         |
 
 ### 📚 Blog
 
@@ -20,10 +20,10 @@ Sou um desenvolvedor multidisciplinar que gosta de resolver problemas e tentar s
 
 <!-- BLOG-POST-LIST:END -->
 
-### 🧪 Experiências
+### 🧪 Experiences
 
-- Desenvolvimento de API's restful com Laravel
-- Desenvolvimento dirigido a testes
+- Development of restful API's using Laravel
+- Test Driven Development
 - Gitflow
 - Docker
 - Scrum
@@ -64,3 +64,5 @@ Sou um desenvolvedor multidisciplinar que gosta de resolver problemas e tentar s
 </div>
 
 <br />
+
+> "The future is not laid out on a track. It is something that we can decide, and to the extent that we do not violate any known laws of the universe, we can probably make it work the way that we want to".
