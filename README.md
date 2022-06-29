@@ -7,6 +7,18 @@ I'm a multidisciplinary developer who likes to solve problems and try to be bett
 - ⛏ Getting deeper knowledge in Laravel
 - 😃 Fun fact: I like riding bikes 🚲
 
+Certifications in Alura [here](https://cursos.alura.com.br/user/uendel-couto0/fullCertificate/b1dffaf32f8646a4ea60afe7794ad818)
+
+- PHP Archtect
+- Advanced PHP Developer
+- SCRUM
+- XDEBUG
+- TDD
+- Object Calisthenics
+- Database modeling
+- Linux
+- Laravel
+
 ### 👩‍🚀 Projects
 
 | PHP      | Javascript                                                                                                         |
