@@ -1,6 +1,6 @@
 ## Howdy? My name is Uendel Couto.
 
-I'm a multidisciplinary developer who likes to solve problems and try to be better every day.
+I'm a backend developer who likes to solve problems and try to be better every day.
 
 - 🎓 Computer Engineer graduated from UNIVASF
 - 👨‍💻 Backend Engineer at [Sysvale](https://sysvale.com/) for the last 2 years
