@@ -68,13 +68,6 @@ Certifications in Alura [here](https://cursos.alura.com.br/user/uendel-couto0/fu
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="26px" style="padding-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="26px" style="padding-right:10px;"/>
 
-### ⚙ Github Analytics
-
-<div>
-<a href="https://github.com/UendelC">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UendelC&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UendelC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 <br />
 
