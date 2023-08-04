@@ -1,16 +1,16 @@
 ## Howdy? My name is Uendel Couto.
 
-I'm a backend developer who likes to solve problems and try to be better every day.
+I'm a Full stack developer who likes to solve problems and try to be better every day.
 
 - 🎓 Computer Engineer graduated from UNIVASF
-- 💻 Software enginner with 5 years of exeprience
+- 💻 Software engineer with 5 years of experience
 - 👨‍ Full Stack Developer @ MyZenTeam
 - ⛏ Deep knowledge in Laravel
 - 😃 Fun fact: I like riding bikes 🚲
 
 Certifications in Alura [here](https://cursos.alura.com.br/user/uendel-couto0/fullCertificate/b1dffaf32f8646a4ea60afe7794ad818)
 
-- PHP Archtect
+- PHP Architect
 - Advanced PHP Developer
 - SCRUM
 - XDEBUG
@@ -35,8 +35,8 @@ Certifications in Alura [here](https://cursos.alura.com.br/user/uendel-couto0/fu
 
 ### 🧪 Experiences
 
-- Development of restful API's using Laravel
-- Test Driven Development
+- Development of restful APIs using Laravel
+- Test-Driven Development
 - Gitflow
 - Docker
 - Scrum
