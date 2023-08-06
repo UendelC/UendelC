@@ -1,4 +1,4 @@
-## Howdy? My name is Uendel Couto.
+## Hi, My name is Uendel Couto.
 
 I'm a Full stack developer who likes to solve problems and try to be better every day.
 
