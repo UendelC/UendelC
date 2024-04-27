@@ -3,9 +3,8 @@
 I'm a Full stack developer who likes to solve problems and try to be better every day.
 
 - 🎓 Computer Engineer graduated from UNIVASF
-- 💻 Software engineer with 5 years of experience
-- 👨‍ Full Stack Developer @ MyZenTeam
-- ⛏ Deep knowledge in Laravel and Vue
+- 💻 Full Stack Software engineer with 5 years of experience
+- ⛏ Deep knowledge of Laravel and Vue
 - 😃 Fun fact: I like riding bikes 🚲
 
 Certifications in Alura [here](https://cursos.alura.com.br/user/uendel-couto0/fullCertificate/b1dffaf32f8646a4ea60afe7794ad818)
